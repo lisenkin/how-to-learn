@@ -2,4 +2,11 @@
 position: absolute;
 top: 30px;
 left: 64px;
+width: 183px;
+height: 32px;
+transition: all 0.4s;
+}
+
+.logo_place_header:hover{
+  opacity: 0.5;
 }

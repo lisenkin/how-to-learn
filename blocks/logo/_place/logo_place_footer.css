@@ -1,0 +1,10 @@
+.logo_place_footer{
+  width: 183px;
+  height: 35px;
+  transition: all 0.4s;
+ }
+
+ .logo_place_footer:hover
+{
+  opacity: 0.5;
+}
